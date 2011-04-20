@@ -7,6 +7,6 @@ public class mod_WeakObsidian extends BaseMod
 	
 	public String Version()
 	{
-		return "1.5";
+		return "1.5_01";
 	}
 }
